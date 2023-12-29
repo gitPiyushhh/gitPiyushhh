@@ -1,5 +1,5 @@
 # Hey everyone ✋, Piyush this side..
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gitPiyushhh.gitPiyushhh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gitPiyushhh" />
 Welcome to my GitHub profile! 😊
 
 ## About Me
