@@ -1,34 +1,51 @@
-# Piyush Sultaniya
+<div align="center">
+  <h1>Hey there ✋, I'm Piyush</h1>
+  <p>Welcome to my GitHub profile! 😊</p>
+  
+  ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=piyushsultaniya.piyushsultaniya)
 
-👋 Hello! I'm Piyush Sultaniya, a passionate Full Stack Developer with experience in MERN stack and related technologies. I have a strong foundation in both frontend and backend development, and I'm enthusiastic about creating seamless and user-friendly web applications.
+  <br>
 
-## About Me
+  ## About Me
 
-- 🌐 [Portfolio](https://piyushsultaniya.netlify.app): Check out my portfolio website to see some of my projects and learn more about me.
-- 💼 Internship: I've interned at Phonepuff, a software startup, and worked for 4 months at Fintellix.
-- 🚀 Learning: Currently expanding my skills in AWS for DevOps to enhance deployment and infrastructure management.
+  I'm a passionate Full Stack Developer with expertise in the MERN stack and related technologies. I love building web applications that are not only functional but also provide a great user experience.
 
-## Skills
+  - 🌐 [Explore My Portfolio](https://piyushsultaniya.netlify.app)
+  - 💼 Internship: Phonepuff (Software Startup) | Fintellix (4 months)
+  - 🚀 Learning: AWS for DevOps
 
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
-- UI/UX Design: Enhancing frontend skills with design principles
-- DevOps: Learning AWS for deployment and infrastructure management
+  <br>
 
-## Projects
+  ## Skills
 
-- [Project 1]: Brief description and link (if public)
-- [Project 2]: Brief description and link (if public)
-- [Project 3]: Brief description and link (if public)
+  - **Frontend**: HTML, CSS, JavaScript, React
+  - **Backend**: Node.js, Express, MongoDB
+  - **UI/UX Design**: Blending development with design principles
+  - **DevOps**: Exploring AWS for deployment and infrastructure management
 
-## Resume
+  <br>
 
-📄 [Download Resume](#) <!-- Add the link to your resume file -->
+  ## Projects
 
-## Connect With Me
+  - [Project 1]: Brief description and link (if public)
+  - [Project 2]: Brief description and link (if public)
+  - [Project 3]: Brief description and link (if public)
 
-- LinkedIn: [Piyush Sultaniya](https://www.linkedin.com/in/piyush-sultaniya/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- Email: your.email@example.com
+  <br>
 
-Feel free to reach out if you have any questions or just want to chat about technology and development!
+  ## Resume
+
+  📄 [Download My Resume](#) <!-- Add the link to your resume file -->
+
+  <br>
+
+  ## Connect With Me
+
+  - [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya/)
+  - [Twitter](https://twitter.com/YourTwitterHandle)
+  - Email: your.email@example.com
+
+  <br>
+
+  **Feel free to reach out if you have any questions or just want to chat about technology and development!**
+</div>
