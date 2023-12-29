@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
 
 # Hey everyone ✋, Piyush this side..
 
