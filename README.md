@@ -45,12 +45,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Connect With Me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/piyush-sultaniya-a5296a220/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
+- LinkedIn: <a href="https://www.linkedin.com/in/piyush-sultaniya-a5296a220/" target="_blank">My linkedIn</a>
+- Twitter: <a href="https://twitter.com/PiyushA89312692" target="_blank">My twitter</a>
 - [Twitter](https://twitter.com/PiyushA89312692) {:target="_blank"}
 - Email: piyushhhagarwal@gmail.com
-(http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 Feel free to reach out if you have any questions or just want to chat about technology and development!
