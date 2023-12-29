@@ -27,6 +27,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 - Leveraging WebRTC for video call features.
 - Incorporating advanced API features like server-side sorting, filtering, and pagination.
 - Building the frontend using Next.js for enhanced performance
+- [Find it at][(https://github.com/gitPiyushhh/doctero))]
 
 ### Outdoors
 - REST Framework with proper client-server architecture and requests over HTTP.
@@ -45,9 +46,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Connect With Me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/piyush-sultaniya-a5296a220/" target="_blank">My linkedIn</a>
-- Twitter: <a href="https://twitter.com/PiyushA89312692" target="_blank">My twitter</a>
-- [Twitter](https://twitter.com/PiyushA89312692) {:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220/)
+- [Twitter](https://twitter.com/PiyushA89312692)
 - Email: piyushhhagarwal@gmail.com
 
 Feel free to reach out if you have any questions or just want to chat about technology and development!
