@@ -1,4 +1,4 @@
-# Hey everyone ✋, Piyush this side..
+# Hey everyone 👋, Piyush this side..
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
 Welcome to my GitHub profile! 😊
 
