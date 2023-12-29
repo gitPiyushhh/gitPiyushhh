@@ -41,12 +41,13 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Resume
 
-📄 [Download My Resume](https://drive.google.com/file/d/1EaXA_c6Jmz4j-Woz3Idg__Sf_kxInYBo/view?usp=sharing) {:target="_blank"}
+📄 [Download My Resume](https://drive.google.com/file/d/1EaXA_c6Jmz4j-Woz3Idg__Sf_kxInYBo/view?usp=sharing) 
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220) {:target="_blank"}
 - [Twitter](https://twitter.com/PiyushA89312692) {:target="_blank"}
 - Email: piyushhhagarwal@gmail.com
+(http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 Feel free to reach out if you have any questions or just want to chat about technology and development!
