@@ -1,8 +1,8 @@
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
+
 # Hey everyone ✋, Piyush this side..
 
 Welcome to my GitHub profile! 😊
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
 
 ## About Me
 
