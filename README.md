@@ -1,14 +1,14 @@
-# Hey**** everyone ✋, Piyush this side..
+# Hey everyone ✋, Piyush this side..
 
 Welcome to my GitHub profile! 😊
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=harsh1000-hub.harsh1000-hub" />
 
 ## About Me
 
 I'm a software developer, my passion is to solve the problems of users keeping business in mind..
 
-- 🧑‍💻 My portfolio: [Explore](https://piyushsultaniya.netlify.app)
+- 🧑‍💻 My portfolio: [piyushsultaniya.com](https://piyushsultaniya.netlify.app)
 - 💼 Work-experience: Phonepuff | Fintellix (4 months)
 - 🚀 Learning: In depth MERN | Systems design | AWS for DevOps
 
