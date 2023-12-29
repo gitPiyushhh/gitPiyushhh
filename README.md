@@ -2,13 +2,13 @@
 
 Welcome to my GitHub profile! 😊
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=piyushsultaniya.piyushsultaniya)
+[![Profile Views](https://visitor-badge.glitch.me/badge?page_id=piyushsultaniya.piyushsultaniya)](https://github.com/piyushsultaniya)
 
 ## About Me
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack and related technologies. I love building web applications that are not only functional but also provide a great user experience.
 
-- 🌐 [Explore My Portfolio](https://piyushsultaniya.netlify.app)
+- 🌐 [Explore My Portfolio](https://piyushsultaniya.netlify.app){:target="_blank"}
 - 💼 Work-experience: Phonepuff | Fintellix (4 months)
 - 🚀 Learning: In depth MERN | Systems design | AWS for DevOps
 
@@ -41,12 +41,12 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Resume
 
-📄 [Download My Resume](https://drive.google.com/file/d/1EaXA_c6Jmz4j-Woz3Idg__Sf_kxInYBo/view?usp=sharing)
+📄 [Download My Resume](https://drive.google.com/file/d/1EaXA_c6Jmz4j-Woz3Idg__Sf_kxInYBo/view?usp=sharing){:target="_blank"}
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220/)
-- [Twitter](https://twitter.com/PiyushA89312692)
+- [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220/){:target="_blank"}
+- [Twitter](https://twitter.com/PiyushA89312692){:target="_blank"}
 - Email: piyushhhagarwal@gmail.com
 
 Feel free to reach out if you have any questions or just want to chat about technology and development!
