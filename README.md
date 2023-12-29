@@ -14,8 +14,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Skills
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, MongoDB
+- **Frontend**: HTML, CSS, JavaScript, React, Redux, React query, GraphQL
+- **Backend**: Node.js, Express, MongoDB, PostgreSQL
 - **UI/UX Design**: Blending development with design principles
 - **DevOps**: Learning AWS for deployment and infrastructure management
 
@@ -45,7 +45,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/piyush-sultaniya-a5296a220) {:target="_blank"}
+- LinkedIn: <a href="https://www.linkedin.com/in/harsh-vardhan-561bb6190/" target="_blank">
+    <img src="(https://www.linkedin.com/in/piyush-sultaniya-a5296a220/)" target="_blank" />
+
 - [Twitter](https://twitter.com/PiyushA89312692) {:target="_blank"}
 - Email: piyushhhagarwal@gmail.com
 (http://stackoverflow.com){:target="_blank" rel="noopener"}
