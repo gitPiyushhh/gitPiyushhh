@@ -1,4 +1,4 @@
-# Hey there ✋, I'm Piyush
+# Hello everyone ✋, Piyush this side..
 
 Welcome to my GitHub profile! 😊
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 😊
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack and related technologies. I love building web applications that are not only functional but also provide a great user experience.
 
-- 🌐 [Explore My Portfolio](https://piyushsultaniya.netlify.app) {:target="_blank"}
+- 🌐 My portfolio: [Explore](https://piyushsultaniya.netlify.app)
 - 💼 Work-experience: Phonepuff | Fintellix (4 months)
 - 🚀 Learning: In depth MERN | Systems design | AWS for DevOps
 
@@ -27,18 +27,20 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and relat
 - Leveraging WebRTC for video call features.
 - Incorporating advanced API features like server-side sorting, filtering, and pagination.
 - Building the frontend using Next.js for enhanced performance
-- [Find it at][(https://github.com/gitPiyushhh/doctero))]
+- Find it at: [doctero-code](https://github.com/gitPiyushhh/doctero))
 
 ### Outdoors
 - REST Framework with proper client-server architecture and requests over HTTP.
 - Authentication Authorization through JWT(JSON Web Tokens).
 - NoSQL database for better scalability.
 - Server-Side rendering with Jade/Pug Templating Engines.
+- Find it at: [Link](https://github.com/gitPiyushhh/Natours-API))
 
 ### Worldwise
 - Use of context API for remote and UI state management.
 - Custom hooks to consume context.
 - 3rd party packages used like leaflet, date-picker
+- Find it at: [Link](https://github.com/gitPiyushhh/Worldwise))
 
 ## Resume
 
