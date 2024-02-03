@@ -25,7 +25,7 @@ I'm a software developer, my passion is to solve the problems of users keeping b
 - Leveraging WebRTC for video call features.
 - Incorporating advanced API features like server-side sorting, filtering, and pagination.
 - Building the frontend using Next.js for enhanced performance
-- Find it at: [doctero-code](https://github.com/gitPiyushhh/doctero)
+- Find it at: [doctero.io]([https://github.com/gitPiyushhh/doctero](https://main.d13shu2fa3llxr.amplifyapp.com/))
 
 ### Outdoors
 - REST Framework with proper client-server architecture and requests over HTTP.
